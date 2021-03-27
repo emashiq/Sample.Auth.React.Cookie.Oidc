@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFF.Api", "..\..\..\Desktop\React-App-Sample\Sample.Auth\BFF.Api\BFF.Api.csproj", "{E75B94B6-62DD-42A7-A338-E9FD70DDFE34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.BFF", "React.BFF\React.BFF.csproj", "{F6DADA01-9792-421D-B679-2A69897457AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.BFF", "..\..\..\Desktop\React-App-Sample\Sample.Auth\React.BFF\React.BFF.csproj", "{3A469C28-6D51-443A-B6B4-6D7136F2E8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFF.Api", "BFF.Api\BFF.Api.csproj", "{37148B99-0BC0-48B7-84CE-BD31957FD914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E75B94B6-62DD-42A7-A338-E9FD70DDFE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E75B94B6-62DD-42A7-A338-E9FD70DDFE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E75B94B6-62DD-42A7-A338-E9FD70DDFE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E75B94B6-62DD-42A7-A338-E9FD70DDFE34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A469C28-6D51-443A-B6B4-6D7136F2E8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A469C28-6D51-443A-B6B4-6D7136F2E8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A469C28-6D51-443A-B6B4-6D7136F2E8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A469C28-6D51-443A-B6B4-6D7136F2E8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DADA01-9792-421D-B679-2A69897457AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DADA01-9792-421D-B679-2A69897457AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DADA01-9792-421D-B679-2A69897457AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DADA01-9792-421D-B679-2A69897457AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37148B99-0BC0-48B7-84CE-BD31957FD914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37148B99-0BC0-48B7-84CE-BD31957FD914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37148B99-0BC0-48B7-84CE-BD31957FD914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37148B99-0BC0-48B7-84CE-BD31957FD914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
